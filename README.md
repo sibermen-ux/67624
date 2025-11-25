@@ -1,5 +1,4 @@
-bebiş
-<!DOCTYPE html>
+...............................................................................
 <html lang="tr">
 <head>
   <meta charset="utf-8">
@@ -44,7 +43,6 @@ bebiş
   <div class="bg"></div>
   <div class="overlay"></div>
   <div class="poem">
-    <h1>Senin İçin</h1>
    Seninle geçen her an bir şiir,<br>
 Kalbimde adın yazılı her bir mısra.<br>
 Gözlerin, gecemi aydınlatan yıldız,<br>
