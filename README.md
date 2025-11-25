@@ -3,7 +3,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Senin İçin</title>
   <style>
     :root{
       --bg-image: url('https://r.resimlink.com/I_KL15JqSP7.jpeg'); /* senin verdiğin link */
